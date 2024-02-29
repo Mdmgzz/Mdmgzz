@@ -31,4 +31,4 @@ en el ámbito laboral y avanzar en mi desarrollo profesional.
 
 ## 📫 Contacto
 
-- Gmail: 
+- Gmail: migueldomgar.md@gmail.com
