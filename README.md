@@ -2,10 +2,10 @@
 
 ### Sobre mi
 
-Estudiante de Desarrollo de
-Aplicaciones Multiplataformas, en el IES Nervion. 
-Motivado por la oportunidad de expandir mis habilidades 
-en el ámbito laboral y avanzar en mi desarrollo profesional.
+👋 Hola, soy Miguel Domínguez.
+🎓 Estudiante de Ciberseguridad (IES Alixar) | Full-Stack Developer.
+🔐 Apasionado por el hacking ético, el análisis de vulnerabilidades y la seguridad ofensiva/defensiva.
+📂 Aquí encontrarás mis proyectos de desarrollo y mis laboratorios de ciberseguridad documentados.
 
 
 ## Habilidades informaticas
