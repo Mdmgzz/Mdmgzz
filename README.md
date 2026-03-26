@@ -3,7 +3,7 @@
 ### 🚀 Estudiante de Ciberseguridad | Full-Stack Developer  
 
 🔐 Apasionado por el **hacking ético**, el **análisis de vulnerabilidades** y la **seguridad ofensiva/defensiva**.  
-🎓 Actualmente curso la **Especialización en Ciberseguridad (IES Alixar)**, tras completar **SMR, DAW y DAM**.  
+🎓 Actualmente curso la **Especialización en Ciberseguridad (IES Martinez Montañes)**, tras completar **SMR, DAW y DAM**.  
 📂 En este GitHub encontrarás tanto proyectos de **desarrollo Full-Stack (Angular, Laravel, PostgreSQL)** como **laboratorios de ciberseguridad (pentesting, CTFs, scripts en Python)**.  
 
 ---
